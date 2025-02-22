@@ -9,7 +9,7 @@ from PIL import ImageGrab
 pytesseract.pytesseract.tesseract_cmd = r'"C:/Users/Abu Saiba/Downloads/5.4.1 source code.zip"'
 
 # Configure OpenAI API Key
-openai.api_key = "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"
+openai.api_key = "gkhhghljgh"
 
 def capture_whatsapp_screen(region=None):
     """Capture the screen area where WhatsApp messages appear."""
