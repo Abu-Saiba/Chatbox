@@ -10,10 +10,10 @@ from PIL import ImageGrab, ImageEnhance
 pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'  # Windows example
 
 # Configure OpenAI API Key (Replace with your actual OpenAI key)
-openai.api_key = "k-proj-poMml30SjvEXTFtPogCvk830xHQ_JU8_MY7AvbHW7HJB2JnhOsMOSd3HHrPZG0u5UZx3oX7nLwT3BlbkFJ6QF6gsSEmzOppNw7RKevtgbDaDcesk3njR67pSXRuZYscZdmHsTGhs7CdU-wLmko8Kwg8LALkA"
+openai.api_key = #"k---proj-poMml30SjvEXTFtPogCvk830xHQ_JU8_MY7AvbHW7HJB2JnhOsMOSd3HHrPZG0u5UZx3oX7nLwT3BlbkFJ6QF6gsSEmzOppNw7RKevtgbDaDcesk3njR67pSXRuZYscZdmHsTGhs7CdU-wLmko8Kwg8LALkA"
 
 # WhatsApp configuration
-PHONE_NUMBER = "+918400601258 "#code + full number
+PHONE_NUMBER = #"+9184006012588 "#code + full number
 SCREENSHOT_REGION = (1595, 460, 1595, 460) #tom) of chat area
 CHECK_INTERVAL = 15  # Seconds between checks
 # ===========================================
